@@ -1,0 +1,12 @@
+"EmployeeID","Title","FirstName","LastName","Email","Joined","Left","Current","Phone","GradeID","Manager"
+"1","Dr","Daniel","Dare","dan@wwi.com","2005-05-13","2009-01-12","0",,"12",NULL
+"2","Lady","Sarah","Important","sarah@wwi.com","2005-06-15",NULL,"1",,"12",NULL
+"3","Ms","Alice","Alive","alice.alive@wwi.com","2010-06-15",NULL,"1",,"10","2"
+"4","Dr","Xander","Mander","x@wwi.com","2010-04-18",NULL,"1","555-1234","9","3"
+"5","Professor","Jenny","Generator","jenny@wwi.com","2011-12-23",NULL,"1",,"8","4"
+"6","Ms","Gemma","Hardasnails","gemma@wwi.com","2011-08-13",NULL,"1","2222","7","2"
+"7","HRH","Prince","Caspian","prince@wwi.com","2017-09-01",NULL,"1","000-111","4","5"
+"8","Mr","Brian","Knuckles","knuckleduster@wwi.com","2008-07-01","2010-09-30","0",,"6","6"
+"9","Mr","Bob","Punch","bob@wwi.com","2008-07-01",NULL,"1","2222","6","6"
+"10","Mrs","Natalie","Nononsense","natalie@wwi.com","2010-10-13",NULL,"1","2222","6","6"
+"11","Mr","Euan","Young","euan@wwi.com","2017-11-01",NULL,"1",,"1","7"

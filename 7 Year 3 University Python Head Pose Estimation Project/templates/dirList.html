@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> J Cheah CSC3002</title>
+</head>
+<body>
+<h2>{{name}}</h2>
+<div id="files"></div>
+<script>
+    var directories  = {{directory|tojson}}
+    var len = directories.length;
+    var x ="", i;
+    for (i=0; i<len; i++){
+        x = x + "<form action=\"/image-get\" method=\"post\"><button type=\"submit\" name=\"FilePath\" value=" + directories[i] + ">" + directories[i] + "</button></form><br></br>"
+    }
+    document.getElementById("files").innerHTML = x;
+</script>
+
+</body>
+</html>

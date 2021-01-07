@@ -1,0 +1,14 @@
+"EquipmentID","Type","Make","Model","Description","OperationNotes","Damaged"
+"1","Phone","Samsung","S9","Samsung S9 Mobile Phone","Insert SIM and switch on","0"
+"2","Phone","Samsung","S9","Samsung S9 Mobile Phone","Insert SIM and switch on","0"
+"3","Hotspot","Huwai","Hotspot XL","Mobile 4G Hotspot","Charge with micro USB. Turn on and wait for green light to show solid (stop flashing).
+
+SSID WWIMobile
+WPA2 EnterTheInternet","0"
+"4","Tablet","Apple","iPad","Apple iPad Large","Large screen Apple iPad","1"
+"5","Extension Cable",NULL,NULL,"10m Orange 1 gang extension cable","Plug in, done","0"
+"6","Magic Box","Wizard","MagicBox 2","A magic box","Do not open the magic box","0"
+"7","Video Camera","Sony","DV-24-6ABX","Sony DV Video Camera","Insert digital 8 tape, charge and switch on.","0"
+"8","Camera","Pentax","PX-50","Pentax SLR camera capable of video","Use SD card, AA batteries in compartment","0"
+"9","Camera","Canon","5D-III","Canon 5D Mark 3 SLR and Video Camera","Full frame 5D camera - charge and use","1"
+"10","Camera","Canon","4Z","Canon 4Z stills and video camera","Turn on, point, shoot","0"

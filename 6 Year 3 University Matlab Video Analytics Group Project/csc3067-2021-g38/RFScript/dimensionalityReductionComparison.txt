@@ -1,0 +1,125 @@
+>> RF_Face_detection_JP_LDA
+
+Type I and II errors: 
+
+TP =
+
+   130
+
+
+FP =
+
+    24
+
+
+TN =
+
+    16
+
+
+FN =
+
+    70
+
+
+Recall =
+
+    0.6500
+
+
+Precision =
+
+    0.8442
+
+
+Specificity =
+
+    0.4000
+
+
+F_Measure =
+
+    0.7345
+
+
+FalseAlarmRate =
+
+    0.6000
+
+
+areaUnderCurve =
+
+    0.5060
+
+
+Accuracy =
+
+    0.6083
+
+
+Accuracy =
+
+    0.8571
+
+
+>> RF_Face_detection_JP_PCA
+Type I and II errors: 
+
+TP =
+
+   186
+
+
+FP =
+
+    22
+
+
+TN =
+
+    18
+
+
+FN =
+
+    14
+
+
+Recall =
+
+    0.9300
+
+
+Precision =
+
+    0.8942
+
+
+Specificity =
+
+    0.4500
+
+
+F_Measure =
+
+    0.9118
+
+
+FalseAlarmRate =
+
+    0.5500
+
+
+areaUnderCurve =
+
+    0.8746
+
+
+Accuracy =
+
+    0.8500
+
+
+Accuracy =
+
+     1

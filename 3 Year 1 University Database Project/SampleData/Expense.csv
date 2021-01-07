@@ -1,0 +1,7 @@
+"ExpenseID","EmployeeID","ProjectID","Description","Amount","Paid"
+"1","4","5","Lunch for plotting","138.6","1"
+"2","7","2","Phone charger","17.99","1"
+"3","4",NULL,"Wine to help me forget","38.2","1"
+"4","11",NULL,"Tea for the office","3.99","0"
+"5","11","5","Large Fake Octopus","99.99","1"
+"6","9","5","Monorail Survey","1200","1"

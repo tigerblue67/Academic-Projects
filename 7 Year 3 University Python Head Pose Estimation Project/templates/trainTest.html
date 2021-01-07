@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Change test parameters</title>
+</head>
+<body>
+<h1>Dataset testing</h1>
+<p>Here you can change test parameters for testing against the dataset</p>
+
+<form action="/dataset_testing" method="post">
+  <label for="DCTTrim">DCT trim from 64 integers per block to:(0 for no DCT just raw pixels)</label><br>
+  <input type="text" id="DCTTrim" name="DCTTrim" value="64"><br>
+  <label for="KValue">Number of K for KNN classification</label><br>
+  <input type="text" id="KValue" name="KValue" value="20"><br>
+  <label for="Sampling">Sampling for training Dataset</label><br>
+  <input type="text" id="Sampling" name="Sampling" value="50"><br><br>
+  <input type="submit" value="Submit">
+</form>
+<a href="/">Home</a><br><a href="training-ims">Training Images</a><br><a href="testing-ims">Testing Images</a>
+
+</body>
+</html>

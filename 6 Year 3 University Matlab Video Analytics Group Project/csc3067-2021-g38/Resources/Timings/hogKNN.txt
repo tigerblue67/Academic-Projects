@@ -1,0 +1,21 @@
+HOG
+
+KNN Training
+Elapsed time is 0.000683 seconds.
+Elapsed time is 0.000651 seconds.
+Elapsed time is 0.000757 seconds.
+Average 0.000697
+
+KNN Basic Testing With Dataset
+Elapsed time is 0.157945 seconds.
+Elapsed time is 0.154472 seconds.
+Elapsed time is 0.150787 seconds.
+Average 0.154401
+Accuracy = 0.8250
+
+KNN Testing with Images outside DB
+Accuracy = 1
+Elapsed time is 0.011913 seconds.
+Elapsed time is 0.014184 seconds.
+Elapsed time is 0.014375 seconds.
+Average 0.013491

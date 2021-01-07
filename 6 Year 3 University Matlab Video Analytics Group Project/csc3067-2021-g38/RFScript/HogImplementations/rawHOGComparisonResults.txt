@@ -1,0 +1,125 @@
+>> RF_Face_detection_MY_HOG_JP
+Type I and II errors: 
+
+TP =
+
+   130
+
+
+FP =
+
+    12
+
+
+TN =
+
+    28
+
+
+FN =
+
+    70
+
+
+Recall =
+
+    0.6500
+
+
+Precision =
+
+    0.9155
+
+
+Specificity =
+
+    0.7000
+
+
+F_Measure =
+
+    0.7602
+
+
+FalseAlarmRate =
+
+    0.3000
+
+
+areaUnderCurve =
+
+    0.7400
+
+
+Accuracy =
+
+    0.6583
+
+
+Accuracy =
+
+     1
+
+
+
+>> RF_Face_detection_LIBRARY_HOG_JP
+Type I and II errors: 
+
+TP =
+
+   160
+
+
+FP =
+
+    20
+
+
+TN =
+
+    20
+
+
+FN =
+
+    40
+
+
+Recall =
+
+    0.8000
+
+
+Precision =
+
+    0.8889
+
+
+Specificity =
+
+    0.5000
+
+
+F_Measure =
+
+    0.8421
+
+
+FalseAlarmRate =
+
+    0.5000
+
+
+areaUnderCurve =
+
+    0.8450
+
+
+Accuracy =
+
+    0.7500
+
+
+Accuracy =
+
+    0.8571

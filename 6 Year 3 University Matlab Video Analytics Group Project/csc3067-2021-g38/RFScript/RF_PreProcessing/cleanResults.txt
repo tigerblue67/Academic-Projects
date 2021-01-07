@@ -1,0 +1,71 @@
+Clean results for RF classifier:
+
+****Convolution with average mask****  (3x3 mask was by far best but took minimally longer)
+Average:
+TP = 156
+FP = 22
+TN = 18
+FN = 44
+Accuracy = 0.725 (Inside DB)
+Accuracy = 1     (Outside DB)
+Train:Elapsed time is 3.131 seconds.
+Test: Elapsed time is 0.684 seconds.
+
+
+****Histogram Equalisation****
+Average:
+TP = 183.33
+FP = 13.33
+TN = 26.67
+FN = 16.67
+
+Accuracy =    0.8750
+Accuracy =     1
+
+Train: Elapsed time is 3.246 seconds.
+Test: Elapsed time is 0.6869 seconds.
+
+
+****Automatic Linear Stretching****
+Average:
+TP = 132
+FP = 10.33
+TN = 29.67
+FN = 68
+
+Accuracy =    0.6737
+Accuracy =    0.5714
+
+Train: Elapsed time is 3.4711 seconds.
+Test: Elapsed time is 0.7405 seconds.
+
+
+****Median Filter****
+Average:
+TP = 155.33
+FP = 17.67
+TN = 22.67
+FN = 45.33
+
+Accuracy =    0.7417
+Accuracy =    0.8571
+
+Train: Elapsed time is 3.223 seconds.
+Test: Elapsed time is 0.7635 seconds.
+
+****Power Law**** (Gamma = 1.25; Gamma > 1 was best meaning the images generally require contrast enhancement in light areas)
+Average:
+TP = 161
+FP = 17.33
+TN = 22.67
+FN = 39
+
+Accuracy =    0.7653
+Accuracy =     1
+
+Train: Elapsed time is 3.4927 seconds.
+Test: Elapsed time is 0.8030 seconds.
+
+
+Relative speed (Training) = PL > LS > HistEQ > MED FILT > CONV AV
+Relative speed (Testing) = PL > MED FILT > LS > HistEQ >  CONV AV

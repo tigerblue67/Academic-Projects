@@ -1,0 +1,47 @@
+QUEEN’S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name:Jacob Cheah
+Project Module Code: CSC3002
+Project Supervisor: Niall McLaughlin
+Meeting Number:02
+Date of Meeting: 22/10/2020
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+
+Worked on problem description. 
+Researched into the project with current solutions and available research articles. 
+Planned the development of the system.
+
+Decisions:
+Problem description needs a greater focus on automotive side of things
+Problem description needs a greater focus on the software engineering side
+Problem description needs more detail to be ~ 4 pages
+Pose recognition will be written from scratch although facial recognition does not need to be written from scratch due to the complexity 
+Until the system has its full functionality we will be working with ideal conditions cropped faces with good lighting etc. once functionality has been established we can move onto dealing with other conditions.
+
+
+Action Points:
+==============
+Before next meeting read in images from the provided dataset and add them into a DB with classification
+If time permits seperate images into blocks and descibe the blocks using DCT-II
+
+
+Date of next meeting:
+====================+
+
+05/11/2020
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================
+

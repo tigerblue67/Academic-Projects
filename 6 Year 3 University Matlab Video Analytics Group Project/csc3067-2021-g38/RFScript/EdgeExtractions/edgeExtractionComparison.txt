@@ -1,0 +1,9 @@
+Edge Extraction area under ROC curve:
+
+Neighbourhood Operators (Practical): 0.7807
+Canny: 0.5 (No better than random)
+Prewitt: 0.7434
+Sobel: 0.7335
+Sobel (Fudge Factor): 0.7909
+
+https://www.researchgate.net/publication/236578629_Fractal-Based_Detection_of_Microcalcification_Clusters_in_Digital_Mammograms

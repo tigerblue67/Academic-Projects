@@ -1,0 +1,48 @@
+HOG
+
+RF Training
+Elapsed time is 1.098242 seconds.
+Elapsed time is 1.133847 seconds.
+Elapsed time is 1.150586 seconds.
+Average 1.127558
+
+RF Basic Testing With Dataset
+Elapsed time is 0.589149 seconds.
+Elapsed time is 0.674594 seconds.
+Elapsed time is 0.591008 seconds.
+Average time 0.618250
+Accuracy = 0.7500
+Accuracy = 0.7667
+Accuracy = 0.7500
+Average accuracy 0.755567
+
+RF Testing with Images outside DB
+Accuracy = 0.8571
+Elapsed time is 3.231122 seconds.
+Elapsed time is 3.177962 seconds.
+Elapsed time is 3.031791 seconds.
+Average 3.146958
+
+TP =
+
+   160
+160
+160
+
+FP = (average 18.67)
+
+    20
+16
+20
+
+TN = (average 21.3)
+
+    20
+24
+20
+
+FN =
+
+    40
+40
+40

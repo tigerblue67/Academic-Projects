@@ -1,0 +1,39 @@
+HOG
+
+NN Training
+Elapsed time is 0.000706 seconds.
+Elapsed time is 0.000743 seconds.
+Elapsed time is 0.000848 seconds.
+Average 0.000766
+
+NN Basic Testing With Dataset
+Elapsed time is 0.586517 seconds.
+Elapsed time is 0.602162 seconds.
+Elapsed time is 0.607257 seconds.
+Average 0.598645
+Accuracy = 0.8250
+
+NN Testing with Images outside DB
+Accuracy = 1
+Elapsed time is 0.033103 seconds.
+Elapsed time is 0.028048 seconds.
+Elapsed time is 0.041049 seconds.
+Average 0.034067
+
+NN Testing on images using single scale sliding window
+Elapsed time is 32.597449 seconds.
+Elapsed time is 32.360415 seconds.
+Elapsed time is 32.218739 seconds.
+Average 32.392201
+
+
+
+
+
+
+
+
+
+
+
+

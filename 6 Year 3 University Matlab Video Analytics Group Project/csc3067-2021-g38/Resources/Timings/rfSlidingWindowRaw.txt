@@ -1,0 +1,434 @@
+RF_Face_detection_JP:
+********Testing********
+Type I and II errors: 
+
+TP =
+
+   163
+
+
+FP =
+
+    17
+
+
+TN =
+
+    23
+
+
+FN =
+
+    37
+
+
+Recall =
+
+    0.8150
+
+
+Precision =
+
+    0.9056
+
+
+Specificity =
+
+    0.5750
+
+
+F_Measure =
+
+    0.8579
+
+
+FalseAlarmRate =
+
+    0.4250
+
+
+areaUnderCurve =
+
+    0.8382
+
+
+Accuracy =
+
+    0.7750
+
+********Testing outside DB********
+Accuracy =
+
+     1
+
+
+********Single scale sliding window********
+Multi Scale Sliding window Type 1 and 2 Errors
+
+TP =
+
+     6
+
+
+FP =
+
+     0
+
+
+FN =
+
+     0
+
+
+TN =
+
+   218
+
+
+Recall =
+
+     1
+
+
+Precision =
+
+     1
+
+
+Specificity =
+
+     1
+
+
+F_Measure =
+
+     1
+
+
+FalseAlarmRate =
+
+     0
+
+Multi Scale Sliding window Type 1 and 2 Errors
+
+TP =
+
+     5
+
+
+FP =
+
+     0
+
+
+FN =
+
+     8
+
+
+TN =
+
+   249
+
+
+Recall =
+
+    0.3846
+
+
+Precision =
+
+     1
+
+
+Specificity =
+
+     1
+
+
+F_Measure =
+
+    0.5556
+
+
+FalseAlarmRate =
+
+     0
+
+Multi Scale Sliding window Type 1 and 2 Errors
+
+TP =
+
+    11
+
+
+FP =
+
+     8
+
+
+FN =
+
+     0
+
+
+TN =
+
+   459
+
+
+Recall =
+
+     1
+
+
+Precision =
+
+    0.5789
+
+
+Specificity =
+
+    0.9829
+
+
+F_Measure =
+
+    0.7333
+
+
+FalseAlarmRate =
+
+    0.0171
+
+402         end
+Multi Scale Sliding window Type 1 and 2 Errors
+
+TP =
+
+    72
+
+
+FP =
+
+    33
+
+
+FN =
+
+     3
+
+
+TN =
+
+        3111
+
+
+Recall =
+
+    0.9600
+
+
+Precision =
+
+    0.6857
+
+
+Specificity =
+
+    0.9895
+
+
+F_Measure =
+
+    0.8000
+
+
+FalseAlarmRate =
+
+    0.0105
+
+********Multi Scale sliding window********
+Multi Scale Sliding window Type 1 and 2 Errors
+
+TP =
+
+     5
+
+
+FP =
+
+     0
+
+
+FN =
+
+     0
+
+
+TN =
+
+   668
+
+
+Recall =
+
+     1
+
+
+Precision =
+
+     1
+
+
+Specificity =
+
+     1
+
+
+F_Measure =
+
+     1
+
+
+FalseAlarmRate =
+
+     0
+
+Multi Scale Sliding window Type 1 and 2 Errors
+
+TP =
+
+     8
+
+
+FP =
+
+     0
+
+
+FN =
+
+     5
+
+
+TN =
+
+   777
+
+
+Recall =
+
+    0.6154
+
+
+Precision =
+
+     1
+
+
+Specificity =
+
+     1
+
+
+F_Measure =
+
+    0.7619
+
+
+FalseAlarmRate =
+
+     0
+
+Multi Scale Sliding window Type 1 and 2 Errors
+
+TP =
+
+     5
+
+
+FP =
+
+     7
+
+
+FN =
+
+     1
+
+
+TN =
+
+        1410
+
+
+Recall =
+
+    0.8333
+
+
+Precision =
+
+    0.4167
+
+
+Specificity =
+
+    0.9951
+
+
+F_Measure =
+
+    0.5556
+
+
+FalseAlarmRate =
+
+    0.0049
+
+Multi Scale Sliding window Type 1 and 2 Errors
+
+TP =
+
+    67
+
+
+FP =
+
+    35
+
+
+FN =
+
+     4
+
+
+TN =
+
+        9509
+
+
+Recall =
+
+    0.9437
+
+
+Precision =
+
+    0.6569
+
+
+Specificity =
+
+    0.9963
+
+
+F_Measure =
+
+    0.7746
+
+
+FalseAlarmRate =
+
+    0.0037

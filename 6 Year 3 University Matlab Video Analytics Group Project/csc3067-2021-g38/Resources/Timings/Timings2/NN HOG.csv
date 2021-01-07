@@ -1,0 +1,8 @@
+Title,Timing,Accuracy,TP,FP,TN,FN,Recall,Precision,Specificity,F_Measure,FalseAlarmRate,RocCurveArea,,,,,,,,,,
+ , , , , , , , , , , , , ,,,,,,,,,,
+HOG NN training,0.4706317,,,,,,,,,,,,,,,,,,,,,
+ ,,,,,,,,,,,,,,,,,,,,,,
+HOG NN test dataset ,0.6258224,0.825,190,32,8,10,0.95,0.855855856,0.2,0.900473934,0.8,,,,,,,,42,0.175,,Error
+ ,,,,,,,,,,,,,,,,,,198,240,0.825,,Accuracy
+HOG NN supplied images ,0.0296639,1,7,0,0,0,1,1,NaN,1,NaN,,,,,,,,0,0,,Error
+ ,,,,,,,,,,,,,,,,,,7,7,1,,Accuracy

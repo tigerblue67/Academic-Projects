@@ -1,0 +1,54 @@
+Kernel: Polynomial
+Kernel option = 1 (wouldn't run)
+
+Kernel option = 2 
+Accuracy = 0.5917
+areaUnderCurve = 0.6580
+Accuracy = 0.7143
+
+Kernel option = 3
+Accuracy = 0.5083
+areaUnderCurve = 0.8780
+Accuracy = 0.1429
+
+Kernel option = 4
+Accuracy = 0.4667
+areaUnderCurve = 0.5830
+Accuracy = 0.2857
+
+Kernel option = 5
+Accuracy = 0.3250
+areaUnderCurve = 0.7880
+Accuracy = 0
+
+Kernel: Gaussian
+Kernel option = 1
+Accuracy = 0.8333
+areaUnderCurve = 0.5000
+Accuracy = 1
+
+Kernel option = 2
+Accuracy = 0.8333
+areaUnderCurve = 0.5000
+Accuracy = 1
+
+Kernel option = 3
+Accuracy = 0.8333
+areaUnderCurve = 0.5000
+Accuracy = 1
+
+Kernel option = 4
+Accuracy = 0.8333
+areaUnderCurve = 0.5000
+Accuracy = 1
+
+Kernel option = 5
+Accuracy = 0.8333
+areaUnderCurve = 0.5000
+Accuracy = 1
+
+
+Kernel: Polyhog
+Accuracy = 0.5917
+areaUnderCurve = 0.6580
+Accuracy = 0.7143

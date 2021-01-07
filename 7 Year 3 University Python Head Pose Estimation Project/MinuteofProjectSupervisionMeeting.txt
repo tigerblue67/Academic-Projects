@@ -1,0 +1,52 @@
+QUEEN’S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: Jacob Cheah
+Project Module Code: CSC3002
+Project Supervisor: Niall McLaughlin
+Meeting Number: 01
+Date of Meeting: 08/10/2020
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+First meeting so no progress to report.
+
+Agreed Bi-weekly meeting frequency.
+
+23rd October initial plan deadline.
+
+Project will be written in python.
+
+As much of the project as possible should be written from scratch - minimal use of available libraries
+
+Action Points:
+==============
+
+Gitlab project needs to be created to store project progress, meeting minutes etc.
+
+As a jumping off point I should research the following:
+Search for any related research articles in the Library resources
+Feature extraction
+Discrete Cosine Transform
+Nearest neighbor algorithms
+sci-py
+num-py
+
+
+Date of next meeting:
+====================+
+22/10/2020
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================
+

@@ -1,0 +1,32 @@
+For KNN to test:
+classificationResult(i,1) = KNNTesting(testnumber, modelNN, 5);
+
+Jacob 
+KNN
+
+Elapsed time is 0.737203 seconds. 0.700165
+Accuracy = 1
+
+NN
+Elapsed time is 0.547962 seconds. 0.566612
+Accuracy = 1
+
+
+Jonno
+KNN
+Elapsed time is 0.784875 seconds. 0.795440
+Accuracy = 1
+
+NN
+Elapsed time is 0.720449 seconds. 0.716557
+Accuracy = 1
+
+
+Me
+KNN 
+Elapsed time is 11.054841 seconds. 11.027057
+Accuracy = 1
+
+NN 
+Elapsed time is 10.914655 seconds. 10.932495
+Accuracy = 1
