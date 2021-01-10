@@ -15,7 +15,10 @@ This Project is a collection of some of my Academic Projects at Secondary School
 4: Completed in 2017-18 during my first year of university, this was a group project assingment that I completed alongside 3 other students with the objective to create a website geared towards a fashion blog written in HTML/JavaScript with a Java webserver backend.
 
 
-5: Completed in 2020 during my third year of university, this project was completed as part of my 'Cloud Computing' module with the objective to create a cloud based, calculator with a web interface, to take full advantage of cloud technologies, every function of the calculator; plus, minus, multiply, divide etc all written in different programming languages in different docker containers, the different functions and features are written in the following languages with the associated docker image:
+5: Completed in 2018-19 during my second year of university, this was a group project that I completed with 3 other students with the objective to create an Android game that each team could define, we created a simple top down driving game in which the player would steer left and right to avoid obstacles and pursuing vehicles.
+
+
+6: Completed in 2020 during my third year of university, this project was completed as part of my 'Cloud Computing' module with the objective to create a cloud based, calculator with a web interface, to take full advantage of cloud technologies, every function of the calculator; plus, minus, multiply, divide etc all written in different programming languages in different docker containers, the different functions and features are written in the following languages with the associated docker image:
 
   Main interface of the calculator is written in HTML/JavaScript
   
@@ -40,8 +43,8 @@ All of these functions communicated via HTTP requests, in this project there was
   Saving the results of calculation with the ability to load previous results based off an id
   
   
-6: Completed in 2020 during my third year of university, this was a group project with 2 other students to create an application that can detect faces from images with testing using a number of different machine learning techniques from K nearest neighbors, SVM, Random forest and more, this application was written and run in MATLAB.
+7: Completed in 2020 during my third year of university, this was a group project with 2 other students to create an application that can detect faces from images with testing using a number of different machine learning techniques from K nearest neighbors, SVM, Random forest and more, this application was written and run in MATLAB.
 
 
 
-7: Work in progress, This is my final year project written in Python, the hoal of this project is to be able to effectively detect a persons head position with a focus on an automotive application to allow auto manufacturers to issue warnings to driver if it has been detected that the driver is distracted or possibly using their mobile phone or has fallen asleep by detecting the drivers head position and determining if this can be considered a significant risk.
+8: Work in progress, This is my final year project written in Python, the hoal of this project is to be able to effectively detect a persons head position with a focus on an automotive application to allow auto manufacturers to issue warnings to driver if it has been detected that the driver is distracted or possibly using their mobile phone or has fallen asleep by detecting the drivers head position and determining if this can be considered a significant risk.

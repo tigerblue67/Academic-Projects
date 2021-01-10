@@ -1,0 +1,24 @@
+SVM with Augmentation (raw pixels):
+
+Accuracy = 0.7083
+TP =   138
+FP =     8
+TN =    32
+FN =    62
+Accuracy = 0.7143
+TP =     5
+FP =     0
+TN =     0
+FN =     2
+
+Without Augmentation:
+Accuracy = 0.6667
+TP =    12
+FP =     2
+TN =     8
+FN =     8
+Accuracy = 0.7143
+TP =     5
+FP =     0
+TN =     0
+FN =     2

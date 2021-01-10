@@ -1,0 +1,287 @@
+>> SVM_Face_detection_EE_Canny_JC
+
+Accuracy =
+
+    0.1667
+
+Type I and II errors: 
+
+TP =
+
+     0
+
+
+FP =
+
+     0
+
+
+TN =
+
+    40
+
+
+FN =
+
+   200
+
+
+Recall =
+
+     0
+
+
+Precision =
+
+   NaN
+
+
+Specificity =
+
+     1
+
+
+F_Measure =
+
+   NaN
+
+
+FalseAlarmRate =
+
+     0
+
+
+areaUnderCurve =
+
+   NaN
+
+
+
+>> SVM_Face_detection_EE_Practical_JC
+
+Accuracy =
+
+    0.5417
+
+Type I and II errors: 
+
+TP =
+
+   109
+
+
+FP =
+
+    19
+
+
+TN =
+
+    21
+
+
+FN =
+
+    91
+
+
+Recall =
+
+    0.5450
+
+
+Precision =
+
+    0.8516
+
+
+Specificity =
+
+    0.5250
+
+
+F_Measure =
+
+    0.6646
+
+
+FalseAlarmRate =
+
+    0.4750
+
+
+areaUnderCurve =
+
+    0.5034
+
+>> SVM_Face_detection_EE_Prewitt_JC
+
+Accuracy =
+
+    0.7458
+
+Type I and II errors: 
+
+TP =
+
+   172
+
+
+FP =
+
+    33
+
+
+TN =
+
+     7
+
+
+FN =
+
+    28
+
+
+Recall =
+
+    0.8600
+
+
+Precision =
+
+    0.8390
+
+
+Specificity =
+
+    0.1750
+
+
+F_Measure =
+
+    0.8494
+
+
+FalseAlarmRate =
+
+    0.8250
+
+
+areaUnderCurve =
+
+    0.6529
+
+>> SVM_Face_detection_EE_Sobel_JC
+
+Accuracy =
+
+    0.7458
+
+Type I and II errors: 
+
+TP =
+
+   172
+
+
+FP =
+
+    33
+
+
+TN =
+
+     7
+
+
+FN =
+
+    28
+
+
+Recall =
+
+    0.8600
+
+
+Precision =
+
+    0.8390
+
+
+Specificity =
+
+    0.1750
+
+
+F_Measure =
+
+    0.8494
+
+
+FalseAlarmRate =
+
+    0.8250
+
+
+areaUnderCurve =
+
+    0.6529
+
+
+>> SVM_Face_detection_EE_Sobel_Fudgefactor_JC
+
+Accuracy =
+
+    0.4875
+
+Type I and II errors: 
+
+TP =
+
+    89
+
+
+FP =
+
+    12
+
+
+TN =
+
+    28
+
+
+FN =
+
+   111
+
+
+Recall =
+
+    0.4450
+
+
+Precision =
+
+    0.8812
+
+
+Specificity =
+
+    0.7000
+
+
+F_Measure =
+
+    0.5914
+
+
+FalseAlarmRate =
+
+    0.3000
+
+
+areaUnderCurve =
+
+    0.6669

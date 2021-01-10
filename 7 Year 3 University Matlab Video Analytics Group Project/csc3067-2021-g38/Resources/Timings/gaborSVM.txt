@@ -1,0 +1,33 @@
+Gabor
+
+SVM Training
+Elapsed time is 0.387796 seconds.
+Elapsed time is 0.259352 seconds.
+Elapsed time is 0.291588 seconds.
+Average 0.312912
+
+SVM Basic Testing With Dataset
+Elapsed time is 1.420874 seconds.
+Elapsed time is 1.367066 seconds.
+Elapsed time is 1.336987 seconds.
+Average 1.374976
+Accuracy = 0.7958
+
+SVM Testing with Images outside DB
+Accuracy = 0.7143
+Elapsed time is 0.097884 seconds.
+Elapsed time is 0.094375 seconds.
+Elapsed time is 0.093971 seconds.
+Average 0.09541
+
+
+Dataset -
+TP =   155
+FP =     4
+TN =    36
+FN =    45
+Cross-Validation -
+TP =     5
+FP =     0
+TN =     0
+FN =     2

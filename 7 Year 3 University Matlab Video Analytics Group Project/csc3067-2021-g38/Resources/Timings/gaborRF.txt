@@ -1,0 +1,48 @@
+Gabor
+
+RF Training
+Elapsed time is 42.545381 seconds.
+Elapsed time is 40.635124 seconds.
+Elapsed time is 41.235210 seconds.
+Average 41.471905
+
+RF Basic Testing With Dataset
+Elapsed time is 5.737823 seconds.
+Elapsed time is 5.486350 seconds.
+Elapsed time is 5.429177 seconds.
+Average Time 5.551117
+Accuracy = 0.9292
+Accuracy = 0.9458
+Accuracy = 0.9458
+Average Accuracy 0.940267
+
+RF Testing with Images outside DB
+Accuracy = 0.8571
+Elapsed time is 3.377621 seconds.
+Elapsed time is 3.652351 seconds.
+Elapsed time is 3.444855 seconds.
+Average 10.474827
+
+TP = (average = 196.3)
+
+   193
+197
+199
+
+FP = (average = 10.67)
+
+    10
+10
+12
+
+TN = (average = 29.3)
+
+    30
+30
+28
+
+FN = (average = 3.67)
+
+     7
+3
+1

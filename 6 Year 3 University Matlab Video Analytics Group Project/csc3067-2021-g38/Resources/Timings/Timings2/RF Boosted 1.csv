@@ -1,8 +1,0 @@
-Title,Timing,Accuracy,TP,FP,TN,FN,Recall,Precision,Specificity,F_Measure,FalseAlarmRate,RocCurveArea,,,,,,,,,,
- , , , , , , , , , , , , ,,,,,,,,,,
-RF Boosted training,7.063012,,,,,,,,,,,,,,,,,,,,,
- ,,,,,,,,,,,,,,,,,,,,,,
-RF Boosted test dataset,0.5871768,0.783333333,162,14,26,38,0.81,0.920454545,0.65,0.861702128,0.35,0.770625,,,,,,,52,0.216666666666667,,Error
- ,,,,,,,,,,,,,,,,,,188,240,0.783333333333333,,Accuracy
-RF Boosted supplied images ,1.4900903,1,7,0,0,0,1,1,NaN,1,NaN,,,,,,,,0,0,,Error
- ,,,,,,,,,,,,,,,,,,7,7,1,,Accuracy

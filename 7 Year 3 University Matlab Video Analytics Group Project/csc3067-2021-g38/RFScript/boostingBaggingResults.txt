@@ -1,0 +1,113 @@
+>> RF_Face_detection_BOOSTED_JP
+Type I and II errors: 
+
+TP =
+
+   162
+
+
+FP =
+
+    14
+
+
+TN =
+
+    26
+
+
+FN =
+
+    38
+
+
+Recall =
+
+    0.8100
+
+
+Precision =
+
+    0.9205
+
+
+Specificity =
+
+    0.6500
+
+
+F_Measure =
+
+    0.8617
+
+
+FalseAlarmRate =
+
+    0.3500
+
+
+areaUnderCurve =
+
+    0.7706
+
+
+Accuracy =
+
+    0.7833
+
+>> RF_Face_detection_JP
+Type I and II errors: 
+
+TP =
+
+   163
+
+
+FP =
+
+    17
+
+
+TN =
+
+    23
+
+
+FN =
+
+    37
+
+
+Recall =
+
+    0.8150
+
+
+Precision =
+
+    0.9056
+
+
+Specificity =
+
+    0.5750
+
+
+F_Measure =
+
+    0.8579
+
+
+FalseAlarmRate =
+
+    0.4250
+
+
+areaUnderCurve =
+
+    0.8469
+
+
+Accuracy =
+
+    0.7750

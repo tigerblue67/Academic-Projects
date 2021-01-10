@@ -1,8 +1,0 @@
-Title,Timing,Accuracy,TP,FP,TN,FN,Recall,Precision,Specificity,F_Measure,FalseAlarmRate,RocCurveArea,,,,,,,,,,
- , , , , , , , , , , , , ,,,,,,,,,,
-RF Gabor training,43.5089963,,,,,,,,,,,,,,,,,,,,,
- ,,,,,,,,,,,,,,,,,,,,,,
-RF Gabor test dataset,7.1435466,0.945833333,197,10,30,3,0.985,0.951690821,0.75,0.968058968,0.25,0.9751875,,,,,,,13,0.0541666666666667,,Error
- ,,,,,,,,,,,,,,,,,,227,240,0.945833333333333,,Accuracy
-RF Gabor supplied images ,3.8688407,0.8571,6,0,0,1,0.8571,1,NaN,0.9231,NaN,,,,,,,,1,0.142857142857143,,Error
- ,,,,,,,,,,,,,,,,,,6,7,0.857142857142857,,Accuracy

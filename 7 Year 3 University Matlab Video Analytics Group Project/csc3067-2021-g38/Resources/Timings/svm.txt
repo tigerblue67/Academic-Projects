@@ -1,0 +1,31 @@
+SVM Training
+Elapsed time is 0.208377 seconds.
+Elapsed time is 0.184473 seconds.
+Elapsed time is 0.189152 seconds.
+Average 0.194001
+
+SVM Basic Testing With Dataset
+Elapsed time is 0.058808 seconds.
+Elapsed time is 0.052992 seconds.
+Elapsed time is 0.052694 seconds.
+Average 0.054831
+Accuracy = 0.7083
+
+SVM Testing with Images outside DB
+Accuracy = 0.7143
+Elapsed time is 4.906585 seconds.
+Elapsed time is 4.856795 seconds.
+Elapsed time is 4.869507 seconds.
+Average 4.877629
+
+SVM Testing on images using single scale sliding window
+Elapsed time is 1.171373 seconds.
+Elapsed time is 1.191067 seconds.
+Elapsed time is 1.223656 seconds.
+Average 1.195365
+
+SVM Testing multi-scale sliding window
+Elapsed time is 7.778996 seconds.
+Elapsed time is 7.352713 seconds.
+Elapsed time is 8.000930 seconds.
+Average 7.710880

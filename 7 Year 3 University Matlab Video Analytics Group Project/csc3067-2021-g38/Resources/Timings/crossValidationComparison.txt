@@ -1,0 +1,12 @@
+>> KNN_Face_detection_JC
+Accuracy = 0.6667
+
+>> CrossValidation_KNN_Face_detection_JC
+Accuracy = 0.8571
+
+
+>> RF_Face_detection_JP
+Accuracy = 0.7625
+
+>> CrossValidation_RF_Face_detection_JP
+Accuracy = 1

@@ -1,8 +1,0 @@
-Title,Timing,Accuracy,TP,FP,TN,FN,Recall,Precision,Specificity,F_Measure,FalseAlarmRate,RocCurveArea,,,,,,,,,,
- , , , , , , , , , , , , ,,,,,,,,,,
-HOG KNN training,0.4681651,,,,,,,,,,,,,,,,,,,,,
- ,,,,,,,,,,,,,,,,,,,,,,
-HOG KNN test dataset ,0.1823016,0.825,190,32,8,10,0.95,0.855855856,0.2,0.900473934,0.8,,,,,,,,42,0.175,,Error
- ,,,,,,,,,,,,,,,,,,198,240,0.825,,Accuracy
-HOG KNN supplied images ,0.0171676,1,7,0,0,0,1,1,NaN,1,NaN,,,,,,,,0,0,,Error
- ,,,,,,,,,,,,,,,,,,7,7,1,,Accuracy

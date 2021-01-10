@@ -1,0 +1,8 @@
+Title,Timing,Accuracy,TP,FP,TN,FN,Recall,Precision,Specificity,F_Measure,FalseAlarmRate,RocCurveArea,,,,,,,,,,
+ , , , , , , , , , , , , ,,,,,,,,,,
+RF Library Hog training,1.2077832,,,,,,,,,,,,,,,,,,,,,
+ ,,,,,,,,,,,,,,,,,,,,,,
+RF Library Hog test dataset,0.9817415,0.767,160,16,24,40,0.8,0.909090909,0.6,0.85106383,0.4,0.845,,,,,,,56,0.233333333333333,,Error
+ ,,,,,,,,,,,,,,,,,,184,240,0.766666666666667,,Accuracy
+RF Library Hog supplied images ,3.662817,0.857,6,0,0,1,0.8571,1,NaN,0.9231,NaN,,,,,,,,1,0.142857142857143,,Error
+ ,,,,,,,,,,,,,,,,,,6,7,0.857142857142857,,Accuracy

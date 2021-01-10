@@ -1,9 +1,0 @@
-car
-hostTarget := map[string]string{
-    "http://proxy.40203201.qpc.hal.davecutting.uk/add": "http://add.40203201.qpc.hal.davecutting.uk",
-    "http://proxy.40203201.qpc.hal.davecutting.uk/minus": "http://subtract.40203201.qpc.hal.davecutting.uk",
-	"http://proxy.40203201.qpc.hal.davecutting.uk/multiply": "http://multiply.40203201.qpc.hal.davecutting.uk",
-	"http://proxy.40203201.qpc.hal.davecutting.uk/divide": "http://divide.40203201.qpc.hal.davecutting.uk/divide",
-	"http://proxy.40203201.qpc.hal.davecutting.uk/square": "http://square.40203201.qpc.hal.davecutting.uk",
-	"http://proxy.40203201.qpc.hal.davecutting.uk/timesten": "https://us-central1-assess2-cc-x10.cloudfunctions.net/Times",
-}

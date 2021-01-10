@@ -1,0 +1,21 @@
+Hog
+
+SVM Training
+Elapsed time is 0.062313 seconds.
+Elapsed time is 0.069722 seconds.
+Elapsed time is 0.077710 seconds.
+Average 0.069915
+
+SVM Basic Testing With Dataset
+Elapsed time is 0.015924 seconds.
+Elapsed time is 0.016300 seconds.
+Elapsed time is 0.017238 seconds.
+Average 0.016487
+Accuracy = 0.9167
+
+SVM Testing with Images outside DB
+Accuracy = 1
+Elapsed time is 0.007450 seconds.
+Elapsed time is 0.007255 seconds.
+Elapsed time is 0.008981 seconds.
+Average 0.007895

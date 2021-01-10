@@ -1,8 +1,0 @@
-Title,Timing,Accuracy,TP,FP,TN,FN,Recall,Precision,Specificity,F_Measure,FalseAlarmRate,RocCurveArea,,,,,,,,,,
- , , , , , , , , , , , , ,,,,,,,,,,
-SVM DCT training ,19.3490869,,,,,,,,,,,,,,,,,,,,,
- ,,,,,,,,,,,,,,,,,,,,,,
-SVM DCT test dataset ,0.3188151,0.675,132,10,30,68,0.66,0.929577465,0.75,0.771929825,0.25,0.711125,,,,,,,78,0.325,,Error
- ,,,,,,,,,,,,,,,,,,162,240,0.675,,Accuracy
-SVM DCT supplied images ,0.2097004,0.857142857,6,0,0,1,0.857142857,1,NaN,0.923076923,NaN,,,,,,,,1,0.142857142857143,,Error
- ,,,,,,,,,,,,,,,,,,6,7,0.857142857142857,,Accuracy

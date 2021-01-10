@@ -1,8 +1,0 @@
-Title,Timing,Accuracy,TP,FP,TN,FN,Recall,Precision,Specificity,F_Measure,FalseAlarmRate,RocCurveArea,,,,,,,,,,
- , , , , , , , , , , , , ,,,,,,,,,,
-RF PCA training,2.048953,,,,,,,,,,,,,,,,,,,,,
- ,,,,,,,,,,,,,,,,,,,,,,
-RF PCA test dataset,1.0192991,0.85,186,22,18,14,0.93,0.894230769,0.45,0.911764706,0.55,0.879,,,,,,,36,0.15,,Error
- ,,,,,,,,,,,,,,,,,,204,240,0.85,,Accuracy
-RF PCA supplied images ,3.5665834,1,7,0,0,0,1,1,NaN,1,NaN,,,,,,,,0,0,,Error
- ,,,,,,,,,,,,,,,,,,7,7,1,,Accuracy

@@ -1,8 +1,0 @@
-Title,Timing,Accuracy,TP,FP,TN,FN,Recall,Precision,Specificity,F_Measure,FalseAlarmRate,RocCurveArea,,,,,,,,,,
- , , , , , , , , , , , , ,,,,,,,,,,
-DCT KNN training,1.8843834,,,,,,,,,,,,,,,,,,,,,
- ,,,,,,,,,,,,,,,,,,,,,,
-DCT KNN test dataset,0.5632937,0.670833333,129,8,32,71,0.645,0.941605839,0.8,0.765578635,0.2,,,,,,,,79,0.329166666666667,,Error
- ,,,,,,,,,,,,,,,,,,161,240,0.670833333333333,,Accuracy
-DCT KNN supplied images ,0.0361891,0.714285714,5,0,0,2,0.714285714,1,NaN,0.833333333,NaN,,,,,,,,2,0.285714285714286,,Error
- ,,,,,,,,,,,,,,,,,,5,7,0.714285714285714,,Accuracy
